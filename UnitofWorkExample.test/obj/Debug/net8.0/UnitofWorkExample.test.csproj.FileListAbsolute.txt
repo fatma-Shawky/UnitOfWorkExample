@@ -1,0 +1,7 @@
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitofWorkExample.test
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.csproj.AssemblyReference.cache
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.AssemblyInfoInputs.cache
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.AssemblyInfo.cs
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.csproj.CoreCompileInputs.cache
+F:\study\UnitOfWorkExample\UnitofWorkExample.test\obj\Debug\net8.0\UnitofWorkExample.test.sourcelink.json

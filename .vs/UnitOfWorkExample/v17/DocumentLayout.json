@@ -3,8 +3,108 @@
   "WorkspaceRootPath": "F:\\study\\UnitOfWorkExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D64DCD6-CFB9-4AD4-93D3-A8CA45D1E6B8}|UnitofWorkExample.test\\UnitofWorkExample.test.csproj|f:\\study\\unitofworkexample\\unitofworkexample.test\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D64DCD6-CFB9-4AD4-93D3-A8CA45D1E6B8}|UnitofWorkExample.test\\UnitofWorkExample.test.csproj|solutionrelative:unitofworkexample.test\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|f:\\study\\unitofworkexample\\unitofworkexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|solutionrelative:unitofworkexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D64DCD6-CFB9-4AD4-93D3-A8CA45D1E6B8}|UnitofWorkExample.test\\UnitofWorkExample.test.csproj|f:\\study\\unitofworkexample\\unitofworkexample.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D64DCD6-CFB9-4AD4-93D3-A8CA45D1E6B8}|UnitofWorkExample.test\\UnitofWorkExample.test.csproj|solutionrelative:unitofworkexample.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|f:\\study\\unitofworkexample\\unitofworkexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|solutionrelative:unitofworkexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|f:\\study\\unitofworkexample\\unitofworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|solutionrelative:unitofworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\unitofworkexample.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\unitofworkexample.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|f:\\study\\unitofworkexample\\unitofworkexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|solutionrelative:unitofworkexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\migrations\\20240723161715_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\migrations\\20240723161715_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\unitofworkexample.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\unitofworkexample.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|f:\\study\\unitofworkexample\\unitofworkexample.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3432DD-3DA1-4ED5-98BE-1582CCC287D6}|UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj|solutionrelative:unitofworkexample.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|f:\\study\\unitofworkexample\\unitofworkexample\\unitofworkexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E25F8358-C2D5-4601-B235-461BC63AF0D4}|UnitOfWorkExample\\UnitOfWorkExample.csproj|solutionrelative:unitofworkexample\\unitofworkexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|f:\\study\\unitofworkexample\\unitofworkexample.infrastructure\\migrations\\20240723161715_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2B0983-13BE-4B40-B4B7-049A336C0321}|UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj|solutionrelative:unitofworkexample.infrastructure\\migrations\\20240723161715_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +123,315 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitOfWorkExample",
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitofWorkExample.test\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitofWorkExample.test\\ProductsControllerTests.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitofWorkExample.test\\ProductsControllerTests.cs",
+              "RelativeToolTip": "UnitofWorkExample.test\\ProductsControllerTests.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAAAMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:39:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitofWorkExample.test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitofWorkExample.test\\UnitTest1.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitofWorkExample.test\\UnitTest1.cs",
+              "RelativeToolTip": "UnitofWorkExample.test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:35:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Repositories\\IProductRepository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:57:31.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:58:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "UnitOfWorkExample\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:01:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:00:15.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:59:34.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:00:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Program.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample\\Program.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Program.cs",
+              "RelativeToolTip": "UnitOfWorkExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:04:15.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UnitOfWorkExample\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIBJwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:04:52.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:56:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:59:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:43:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\appsettings.json",
+              "RelativeDocumentMoniker": "UnitOfWorkExample\\appsettings.json",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\appsettings.json",
+              "RelativeToolTip": "UnitOfWorkExample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T16:15:38.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\DTOs\\ProductDto.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:56:18.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\DTOs\\CategoryDto.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:57:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\Mappings\\MappingProfile.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:57:49.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240723161715_init.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:17:15.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\Entities\\Category.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:42:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWorkExample.Core.csproj",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\UnitOfWorkExample.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T15:39:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240723161715_init.Designer.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.Designer.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.Designer.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.Designer.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Migrations\\20240723161715_init.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:18:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:18:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:44:34.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWorkExample.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj",
+              "RelativeToolTip": "UnitOfWorkExample.Infrastructure\\UnitOfWorkExample.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T15:44:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkExample.Core\\Entities\\Product.cs",
+              "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "UnitOfWorkExample.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:43:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWorkExample.csproj",
               "DocumentMoniker": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\UnitOfWorkExample.csproj",
               "RelativeDocumentMoniker": "UnitOfWorkExample\\UnitOfWorkExample.csproj",
               "ToolTip": "F:\\study\\UnitOfWorkExample\\UnitOfWorkExample\\UnitOfWorkExample.csproj",
               "RelativeToolTip": "UnitOfWorkExample\\UnitOfWorkExample.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-23T15:16:58.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T15:16:58.091Z"
             }
           ]
         }
