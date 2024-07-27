@@ -75,6 +75,17 @@ namespace MyProject.API.Controllers
             await _unitOfWork.CompleteAsync();
             return NoContent();
         }
+        [HttpGet("GetProductsByCategory/{categoryId}")]
+        public async Task<IActionResult> GetProductsByCategory(int categoryId)
+        {
+            var products = await _unitOfWork.Products.GetProductsByCategoryAsync(categoryId);
+            if (products == null || !products.Any())
+            {
+                return NotFound();
+            }
+            var productDtos = _mapper.Map<IEnumerable<ProductDto>>(products);
+            return Ok(productDtos);
+        }
     }
 }
 
