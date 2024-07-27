@@ -1,0 +1,16 @@
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\bin\Debug\net8.0\UnitOfWorkExample.Infrastructure.deps.json
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\bin\Debug\net8.0\UnitOfWorkExample.Infrastructure.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\bin\Debug\net8.0\UnitOfWorkExample.Infrastructure.pdb
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\bin\Debug\net8.0\UnitOfWorkExample.Core.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\bin\Debug\net8.0\UnitOfWorkExample.Core.pdb
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.csproj.AssemblyReference.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.AssemblyInfoInputs.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.AssemblyInfo.cs
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.csproj.CoreCompileInputs.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.sourcelink.json
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWo.FD691139.Up2Date
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\refint\UnitOfWorkExample.Infrastructure.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\UnitOfWorkExample.Infrastructure.pdb
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Infrastructure\obj\Debug\net8.0\ref\UnitOfWorkExample.Infrastructure.dll

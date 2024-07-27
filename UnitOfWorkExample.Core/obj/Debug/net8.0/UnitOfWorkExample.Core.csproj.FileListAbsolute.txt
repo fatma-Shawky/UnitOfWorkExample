@@ -1,0 +1,13 @@
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\bin\Debug\net8.0\UnitOfWorkExample.Core.deps.json
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\bin\Debug\net8.0\UnitOfWorkExample.Core.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\bin\Debug\net8.0\UnitOfWorkExample.Core.pdb
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.csproj.AssemblyReference.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.AssemblyInfoInputs.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.AssemblyInfo.cs
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.csproj.CoreCompileInputs.cache
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.sourcelink.json
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\refint\UnitOfWorkExample.Core.dll
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\UnitOfWorkExample.Core.pdb
+F:\study\UnitOfWorkExample\UnitOfWorkExample.Core\obj\Debug\net8.0\ref\UnitOfWorkExample.Core.dll
